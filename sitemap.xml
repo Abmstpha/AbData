@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://abmstpha.github.io/AbData/post/project-1/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/post/project-1/</loc>
+    <loc>https://abmstpha.github.io/AbData/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/post/project-2/</loc>
+    <loc>https://abmstpha.github.io/AbData/post/project-2/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/post/project-3/</loc>
+    <loc>https://abmstpha.github.io/AbData/post/project-3/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://abmstpha.github.io/AbData/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://abmstpha.github.io/AbData/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://abmstpha.github.io/AbData/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://abmstpha.github.io/AbData/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://abmstpha.github.io/AbData/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
