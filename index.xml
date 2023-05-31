@@ -38,6 +38,20 @@ Link to GitHub Repository</description>
     </item>
     
     <item>
+      <title>Accomplishments</title>
+      <link>https://abmstpha.github.io/AbData/about/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abmstpha.github.io/AbData/about/accomplishments/</guid>
+      <description>widget: accomplishments
+This file represents a page section. headless: true
+Order that this section appears on the page. weight: 40
+Note: &amp;amp;shy; is used to add a &amp;lsquo;soft&amp;rsquo; hyphen in a long heading. title: &amp;lsquo;Accomplish­ments&amp;rsquo; subtitle:
+Date format Refer to https://wowchemy.com/docs/customization/#date-format date_format: Jan 2006
+Accomplishments. Add/remove as many item blocks below as you like. title, organization, and date_start are the required parameters. Leave other parameters empty if not required. Begin multi-line descriptions with YAML&amp;rsquo;s |2- multi-line prefix.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://abmstpha.github.io/AbData/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,6 +59,16 @@ Link to GitHub Repository</description>
       <guid>https://abmstpha.github.io/AbData/contact/</guid>
       <description>Follow me on these social media platforms.
 Platform URL YouTube: https://www.youtube.com/channel/UC8r6Wor8s3ffSJdFcse4zog Website: https://alkanash.wordpress.com/ Twitter: https://twitter.com/AbdellahiMou1 LinkedIn: https://www.linkedin.com/in/abdellahi-el-moustapha/ GitHub: https://github.com/Abmstpha </description>
+    </item>
+    
+    <item>
+      <title>Short bio</title>
+      <link>https://abmstpha.github.io/AbData/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abmstpha.github.io/AbData/about/about/</guid>
+      <description>I am a passionate and results-driven data scientist with a strong background in Python, Pandas, NumPy, and Scikit-learn. Fluent in Arabic, English, and French, enabling effective communication and collaboration in diverse environments. I have acquired many certifications related to my majors and interests. My commitment to continuous learning is reflected in my current pursuit of a Data Science Engineering Diploma at École Supérieure Polytechnique de Nouakchott.
+My communication skills are highlighted by my ability to present findings clearly to non-technical stakeholders.</description>
     </item>
     
   </channel>
