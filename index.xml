@@ -13,8 +13,8 @@
       <pubDate>Tue, 09 May 2023 10:58:08 -0400</pubDate>
       
       <guid>https://abmstpha.github.io/AbData/post/project-1/</guid>
-      <description>A study to determine what are the main factors of public health access in Mauritania , in order to drive new polytics that can ensure a concrete improvment that the mejority of people need
-Link to GitHub Repository</description>
+      <description> A study to determine what are the main factors of public health access in Mauritania , in order to drive new polytics that can ensure a concrete improvment that the mejority of people need
+Link to GitHub Repository </description>
     </item>
     
     <item>
@@ -59,6 +59,31 @@ Accomplishments. Add/remove as many item blocks below as you like. title, organi
       <guid>https://abmstpha.github.io/AbData/contact/</guid>
       <description>Follow me on these social media platforms.
 Platform URL YouTube: https://www.youtube.com/channel/UC8r6Wor8s3ffSJdFcse4zog Website: https://alkanash.wordpress.com/ Twitter: https://twitter.com/AbdellahiMou1 LinkedIn: https://www.linkedin.com/in/abdellahi-el-moustapha/ GitHub: https://github.com/Abmstpha </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://abmstpha.github.io/AbData/about/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abmstpha.github.io/AbData/about/education/</guid>
+      <description>Education: title: MEng Electronic Engineering company: University X company_url: &amp;rsquo;&amp;rsquo; company_logo: org-x location: California date_start: &amp;lsquo;2021-01-01&amp;rsquo; date_end: &amp;lsquo;2022-01-01&amp;rsquo; description: |2- * Dissertation on Y * Basketball team * DJ club
+title: BEng Electronic Engineering company: University X company_url: &amp;rsquo;&amp;rsquo; company_logo: org-x location: California date_start: &amp;lsquo;2016-01-01&amp;rsquo; date_end: &amp;lsquo;2020-12-31&amp;rsquo; description: My dissertation was on X
+design: columns: &amp;lsquo;1&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://abmstpha.github.io/AbData/about/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abmstpha.github.io/AbData/about/experience/</guid>
+      <description>An instance of the Experience widget. Documentation: https://wowchemy.com/docs/page-builder/ widget: experience
+This file represents a page section. headless: true
+Order that this section appears on the page. weight: 20
+title: Experience subtitle:
+Date format for experience Refer to https://wowchemy.com/docs/customization/#date-format date_format: Jan 2006
+Experiences. Add/remove as many experience items below as you like. Required fields are title, company, and date_start. Leave date_end empty if it&amp;rsquo;s your current employer. Begin multi-line descriptions with YAML&amp;rsquo;s |2- multi-line prefix.</description>
     </item>
     
     <item>
